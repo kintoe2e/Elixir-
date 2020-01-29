@@ -1,4 +1,4 @@
-# ElixirExample!!
+# ElixirExample!
 
 Basic Elixir example app with Cowboy 2 HTTP Server & Plug.
 
